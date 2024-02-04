@@ -38,6 +38,9 @@ div{
     margin-top: 15px;
     line-height: 2;
 }
+.introduction p{
+    color: #ffffff
+}
 
 .red{
     background-color: #ff0000;
@@ -98,6 +101,7 @@ footer{
 
 footer p{
     font-size: 20px;
+    color: #ffffff;
     text-align: right;
     padding: 15px 15px 15px 0px;
 }
